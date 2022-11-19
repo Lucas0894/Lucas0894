@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Emanuel Caño</h1>
 <h3 align="center">Soy apasionado por el Desarrollo web Frontend.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
