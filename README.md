@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas Emanuel Caño</h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi 👋, I'm Lucas Emanuel Caño<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <h3 align="center">I am 28 years old, I am passionate about technology and video games, I am very persevering and self-taught, that is why I always seek to acquire new knowledge and learn new technologies as I develop new projects.</h3>
 
 
