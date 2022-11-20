@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Emanuel Caño</h1>
-<h3 align="center">Soy apasionado por el Desarrollo web Frontend.</h3>
+<h3 align="center">I am 28 years old, I am passionate about technology and video games, I am very persevering and self-taught, that is why I always seek to acquire new knowledge and learn new technologies as I develop new projects.</h3>
 
 
 <p align="left">
