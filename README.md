@@ -7,7 +7,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
 
 <h3 align="center">
-I am 31 years old, I am passionate about technology and video games, I am very persevering and self-taught, that is why I always seek to acquire new knowledge and learn new technologies as I develop new projects.
+I am 32 years old, I am passionate about technology and video games, I am very persevering and self-taught, that is why I always seek to acquire new knowledge and learn new technologies as I develop new projects.
 </h3> 
 
 <p align="left"></p> 
