@@ -30,5 +30,6 @@ I am 32 years old, I am passionate about technology and video games, I am very p
     <td><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a></td>
     <td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a></td>
     <td><a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></a></td>
+    <td><a href="https://redux.js.org" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWVwpevEG2n39V5tGoN_miTZAlmpK9FO0i0zkqMTEPwA&s=10" width="40" height="40"/></a></td>
   </tr>
 </table>
